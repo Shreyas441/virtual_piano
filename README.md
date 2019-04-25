@@ -1,2 +1,2 @@
 # virtual_piano
-![](images/image.jpg)
+![](Screenshot (25).png)
